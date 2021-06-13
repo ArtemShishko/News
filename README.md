@@ -1,2 +1,2 @@
 # News
-A news app written on Kotlin
+A news app written in Kotlin
